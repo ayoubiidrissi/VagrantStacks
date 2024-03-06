@@ -1,5 +1,5 @@
 # VagrantStacks
 
-mostly from https://gitlab.com/xavki/vagrant-files
+Heavily inspired from https://gitlab.com/xavki/vagrant-files
 
 
